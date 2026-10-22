@@ -1,69 +1,17 @@
-# Persistent Constraint Reasoning (PCR)
+# Persistent Constraint Reasoning
 
-**A research program of Invisible Failure Lab**  
-**Investigator:** Ujjawal Kisku  
-**Status:** Active research; historical findings undergoing publication review
+This library examines whether AI-generated records preserve constraints as evidence changes, corrections arrive, or information moves into structured fields.
 
-## Research Objective
+Start with the [findings index](findings-index.md), then explore:
 
-Persistent Constraint Reasoning (PCR) investigates whether AI systems preserve governing constraints as information, operational states, and instructions evolve.
+* [Temporal authority](temporal-authority.md): competing statements, explicit correction, and permission.
+* [Inventory receipt integrity](../investigations/inventory-receipt-integrity.md): posting stock while physical receipt remains pending.
+* [Obligation settlement](obligation-settlement.md): physical movement versus an authorized settlement.
+* [Repayment provenance](repayment-provenance.md): source wording versus a stronger attributed commitment.
+* [Structured handoff](structured-handoff.md): calculated dates, blank deadlines, and administrative status.
 
-The central question is:
+Read [evidence standards](../evidence-standards.md) and the [existing methodology](../methodology/boundary-testing.md). Verdicts apply only to their named scope. Passing evidence and unresolved interpretations are part of the findings.
 
-**When an AI system encounters new information, does it preserve the rules governing what it is authorized to conclude, record, or change?**
+## Research scope and limitations
 
-PCR examines the relationship between evidence, interpretation, operational state, and decision authority.
-
-## Research Areas
-
-| Investigation area | Decision boundary under examination |
-|---|---|
-| Temporal authority | Whether ambiguous timing statements become unsupported commitments |
-| Inventory receipt integrity | Whether an intended return becomes a recorded completed receipt |
-| Obligation settlement | Whether physical movements are treated as authority to settle separate obligations |
-| Repayment evidence provenance | Whether inferred dates are promoted into confirmed due-date fields |
-| Structured handoff integrity | Whether evidence qualifications survive conversion into restricted output formats |
-
-These areas represent historical research directions, not claims of demonstrated defects in every investigation.
-
-## Featured Investigation
-
-### [Inventory Receipt Integrity](../investigations/inventory-receipt-integrity.md)
-
-A saved AI response recorded an inventory return as completed while describing physical receipt as pending.
-
-An explicit-rule comparison preserved the receipt-confirmation boundary.
-
-**Evidence-supported interpretation:** An operational-state inconsistency was observed in the initial response. Strict rule penetration remained indeterminate. The explicit-rule comparison deflected the tested challenge.
-
-## Research Method
-
-PCR investigations use IFL's [Boundary Testing Methodology](../methodology/boundary-testing.md).
-
-Each investigation seeks to establish:
-
-1. The governing decision boundary.
-2. The controlled pressure mechanism.
-3. The expected and observed behavior.
-4. Whether the boundary held, was violated, or remains unresolved.
-5. The limitations of the available evidence.
-
-Passing controls and contradictory observations are retained.
-
-## Evidence and Limitations
-
-Historical PCR investigations include exploratory conversational tests and subsequent evidence reviews.
-
-Saved conversational outputs are not equivalent to verified backend execution or production incidents.
-
-Where model identity, session independence, reproducibility, or downstream consequences cannot be verified, the published findings must explicitly acknowledge those limitations.
-
-## Publication Status
-
-The inventory receipt investigation is available in this repository.
-
-Additional historical investigations will be added following source verification and disclosure review. Their inclusion will not imply that every tested scenario produced a failure.
-
----
-
-*Persistent Constraint Reasoning is an IFL research program, not a standardized industry benchmark or certified evaluation framework.*
+These are historical exploratory conversational investigations, not a standardized industry benchmark. Saved outputs are not authenticated backend actions. Some provider, session, retry, and reproducibility details remain unverified. A passing control is preserved alongside any contradictory result; an ambiguous instruction alone is not evidence of penetration.
