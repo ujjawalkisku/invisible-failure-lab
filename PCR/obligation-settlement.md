@@ -1,6 +1,6 @@
 # Physical movement versus obligation settlement
 
-> Public candidate • Final independent publication audit pending.
+Research investigation • Synthetic scenario • Historical AI-session evidence.
 
 ## Boundary
 Moving borrowed inventory into a customer delivery does not itself establish how a personal obligation must be settled. An explicit settlement authorization gate, where supplied, governs changes to the recorded obligation.
