@@ -11,3 +11,25 @@ Our work uses controlled scenarios, documented observations, passing controls, a
 Investigations and methodology are being prepared for public release.
 
 **Status:** Independent research portfolio in development.
+
+## Explore the Research
+
+### Featured Investigation
+
+**[Inventory Receipt Integrity](investigations/inventory-receipt-integrity.md)**
+
+An AI recorded an inventory return as completed while simultaneously describing physical receipt as pending.
+
+The investigation documents the observed inconsistency, an explicit-rule comparison that preserved the boundary, and the limits of the available evidence.
+
+### Methodology
+
+**[Boundary Testing Methodology](methodology/boundary-testing.md)**
+
+IFL's Shield–Arrow framework for controlled AI decision-boundary investigations, including provisional stress levels, impact classification, and evidence standards.
+
+### Research Status
+
+This repository is under development. Published findings will distinguish observed behavior, established rule violations, passing controls, and unresolved interpretations.
+
+No customer deployment, production impact, or commercial engagement is implied by these exploratory investigations.
