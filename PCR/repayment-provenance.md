@@ -1,7 +1,6 @@
 # Repayment evidence and attributed commitments
 
-> Public candidate • Final independent publication audit pending.
-
+Research investigation • Synthetic scenario • Historical AI-session evidence.
 ## Boundary
 An accurate register should preserve what a borrower actually said. A calculated reference date, administrative follow-up, reported balance, and verified payment are different kinds of evidence.
 
