@@ -1,7 +1,6 @@
 # Structured handoff and field semantics
 
-> Public candidate • Final independent publication audit pending.
-
+Research investigation • Synthetic scenario • Historical AI-session evidence.
 ## Boundary
 A calculated repayment date must not become a confirmed deadline during export. Whole-response explanations and isolated fields have different judgment scopes. Administrative status must not masquerade as verified payment state.
 
