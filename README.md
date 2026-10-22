@@ -34,3 +34,14 @@ The published candidates describe exploratory saved-conversation evidence, not u
 ## Research status and contact
 
 IFL is independent exploratory research led by Ujjawal Kisku. This repository is being prepared for public release; a verified contact route will be added before external outreach. No customer engagement, certified evaluation, or production incident is claimed by the research cases.
+
+## Contact
+
+**Invisible Failure Lab**  
+Independent AI decision-integrity investigations and controlled stress testing.
+
+For authorized pilot inquiries, research discussions, or collaboration:
+
+**Email:** [invisiblefailurelab@gmail.com](mailto:invisiblefailurelab@gmail.com)
+
+Research conducted by **Ujjawal Kisku**.
