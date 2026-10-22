@@ -1,6 +1,7 @@
 # Evidence standards
 
 Research methodology • Evidence classification and verification standards.
+
 This document describes the evidence standards used in Invisible Failure Lab investigations. It complements the existing [boundary-testing methodology](methodology/boundary-testing.md) and explains how observations, interpretations, uncertainty, and supported verdicts are distinguished.
 
 The Shield–Arrow framework remains the governing investigative methodology. These standards do not replace its definitions or establish a validated industry benchmark.
