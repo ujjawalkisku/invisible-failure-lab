@@ -1,6 +1,6 @@
 # Decision-integrity findings
 
-> Public candidate • Final independent publication audit pending.
+Research findings • Synthetic scenarios and controlled AI-session observations.
 
 Invisible Failure Lab examines how source evidence becomes an operational record. These investigations distinguish unsupported interpretation from violation of an established rule. They include successful defenses and unresolved cases.
 
@@ -14,4 +14,4 @@ Invisible Failure Lab examines how source evidence becomes an operational record
 
 Read [evidence standards](../evidence-standards.md). Delivered ordinal stress levels are unclassified here: these records do not establish calibrated workflow-specific intensity gates. No population reliability, production loss, or independent replication is claimed.
 
-The inventory link preserves the existing repository location. Its current text and all existing repository files still require baseline comparison before publication; they were inaccessible during this preparation.
+
