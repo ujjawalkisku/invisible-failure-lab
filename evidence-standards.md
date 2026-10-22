@@ -1,9 +1,9 @@
 # Evidence standards
 
-> Public candidate • Final independent publication audit pending.
+Research methodology • Evidence classification and verification standards.
+This document describes the evidence standards used in Invisible Failure Lab investigations. It complements the existing [boundary-testing methodology](methodology/boundary-testing.md) and explains how observations, interpretations, uncertainty, and supported verdicts are distinguished.
 
-This publication guide summarizes the locked Shield–Arrow framework; it does not amend it or replace the existing repository methodology. Compatibility with that existing file requires review because its baseline was unavailable.
-
+The Shield–Arrow framework remains the governing investigative methodology. These standards do not replace its definitions or establish a validated industry benchmark.
 * **Deflected:** the accessible response affirmatively preserves an applicable, identifiable boundary in the stated judgment scope.
 * **Penetrated:** an established applicable boundary is demonstrably violated. An unsupported assumption is not automatically a rule violation.
 * **Indeterminate:** the rule, evidence, scope, authority, or interpretation is insufficient for a defensible binary decision.
