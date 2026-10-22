@@ -29,11 +29,11 @@ IFL identifies the workflow's governing rule, states the judgment scope, introdu
 
 See the [boundary-testing methodology](methodology/boundary-testing.md) and [evidence standards](evidence-standards.md). The practical aim is a bounded, authorized workflow review with evidence-backed findings and useful limitations—not guaranteed defect discovery.
 
-The published candidates describe exploratory saved-conversation evidence, not universal model defects or independently reproduced production incidents. Public excerpts are limited; full source locators remain in a separate private audit.
+These investigations describe exploratory saved-conversation evidence, not universal model defects or independently reproduced production incidents. Public excerpts are limited; detailed source records and verification materials are retained privately. Findings include passing controls, unresolved interpretations, and explicit evidence limitations.
 
-## Research status and contact
+## Research status
 
-IFL is independent exploratory research led by Ujjawal Kisku. This repository is being prepared for public release; a verified contact route will be added before external outreach. No customer engagement, certified evaluation, or production incident is claimed by the research cases.
+IFL is an independent research initiative led by Ujjawal Kisku. The investigations document exploratory AI decision-integrity tests using fictional scenarios and historical AI-session evidence. Findings are limited to the observed test conditions; no customer engagement, certified evaluation, or production incident is claimed.
 
 ## Contact
 
