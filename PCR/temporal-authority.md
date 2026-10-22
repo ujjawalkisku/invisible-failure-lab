@@ -1,6 +1,6 @@
 # Temporal authority and explicit correction
 
-> Public candidate • Final independent publication audit pending.
+Research investigation • Synthetic scenario • Historical AI-session evidence.
 
 ## Boundary
 A later statement must not silently acquire authority it does not establish. A clear withdrawal of an earlier commitment should propagate into the current record. Physical actions and permission must remain distinct.
